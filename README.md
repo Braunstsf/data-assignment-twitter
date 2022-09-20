@@ -2,7 +2,7 @@
 First data assignment for I310D 9AM T/TH
 This is my readme file. I will edit this later on. 
 
-Your README should include:
+Your README should include
 
 The goal of your project
 Links to any relevant API documentation
