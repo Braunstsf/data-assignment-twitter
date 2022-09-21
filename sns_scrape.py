@@ -3,7 +3,7 @@ import pandas as pd
 
 query = "iPhone 14 until:2022-09-19 since:2022-09-06"
 tweets = []
-limit = 100
+limit = 1000
 for tweet in sntwitter.TwitterSearchScraper(query).get_items(): 
 	if len(tweets) == limit:
 		break
